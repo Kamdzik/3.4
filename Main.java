@@ -1,6 +1,6 @@
 class Main {
   public static void main(String[] args) {
-
+//napisz tabliczke mnożenia
 
 
 
@@ -8,7 +8,7 @@ class Main {
      System.out.println("");
     
    for(int a = 1 ; a<=10;a++){
-      System.out.print("      "+a*b);
+      System.out.print(a*b+"\t");
       //System.out.print("");
      
       
